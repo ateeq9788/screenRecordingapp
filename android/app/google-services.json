@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "883069180184",
+    "project_id": "screen-recording-2b210",
+    "storage_bucket": "screen-recording-2b210.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:883069180184:android:a9aeed0d443815560d666d",
+        "android_client_info": {
+          "package_name": "com.yourbrand.screen_recorder_master"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAfiWtoXQggz03dGIsqKdAVnTX-rteWf4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

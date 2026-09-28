@@ -1,0 +1,45 @@
+name: screen_recorder_master
+description: "HD Screen Recorder & Game Audio Capture App with Floating Controls"
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+
+  # Screen Recording & Media Projection
+  ed_screen_recorder: ^0.0.9
+
+  # File System & Gallery Export
+  path_provider: ^2.1.5
+  path: ^1.9.0
+  gal: ^2.3.1
+
+  # Media Playback
+  video_player: ^2.9.2
+  chewie: ^1.8.5
+
+  # Permissions & System Controls
+  permission_handler: ^11.3.1
+  provider: ^6.1.2
+  shared_preferences: ^2.3.5
+  share_plus: ^10.1.4
+  intl: ^0.19.0
+
+  # Monetization (AdMob + Firebase Remote Config + RevenueCat)
+  google_mobile_ads: ^5.2.0
+  firebase_core: ^3.10.1
+  firebase_remote_config: ^5.3.3
+  purchases_flutter: ^8.5.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
